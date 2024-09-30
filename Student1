@@ -1,1 +1,10 @@
-vjhvslvcluqbc;kjwnc qw
+main()
+{
+add()
+{
+printf("addition");
+}
+sub();
+div();
+multi();
+}
